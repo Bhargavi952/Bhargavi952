@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Bhargavi952
+<h1 align="center">Hi 👋, I'm Bhargavi</h1>
+
 - 🌱 I’m currently learning MERN stack
 - 👀 I’m interested in web design
 - 📫 How to reach me email Id : bhargavishetty113@gamil.com
@@ -6,7 +7,7 @@
 
 <hr/>
 
-### 🛠 Interests/Skills
+### 🛠  Technologies
 
  
 <div align="center" >
@@ -17,7 +18,7 @@
   ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
   ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-  
+
   
   </div>
   
