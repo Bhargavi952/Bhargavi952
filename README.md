@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm Bhargavi</h1>
+ <br/>
+ <br/>
 
 - 🌱 I’m currently learning MERN stack
 - 👀 I’m interested in web design
 - 📫 How to reach me email Id : bhargavishetty113@gamil.com
 
 
-<hr/>
+<!-- <hr/> -->
+<h1></h1>
+
+
 
 ### 🛠  Technologies
 
+<br/>
  
 <div align="center" >
   
@@ -23,7 +29,8 @@
   </div>
   
  <br/>
- <hr/>
+<h1></h1>
+ 
  
 
 
@@ -35,9 +42,12 @@
 </div>
 
 <br/><br/><br/><br/>
-<hr/>
+<br/><br/><br/><br/>
+<h1></h1>
 
-### 🤝🏻 &nbsp;Connect with Me
+<h4 align="center">
+Connect with Me 🤝🏻 &nbsp;
+</h4>
     
   <div align="center">
  <a href="https://www.linkedin.com/in/bhargavi-0a204914b/">
