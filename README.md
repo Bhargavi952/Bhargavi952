@@ -24,6 +24,8 @@
   ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
   ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
 
   
   </div>
@@ -60,3 +62,5 @@ Connect with Me 🤝🏻 &nbsp;
 <a href="https://twitter.com/Bhargavishett/">
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter" width="35" height="35"> </a>
  </div>
+
+![Bhargavi](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
