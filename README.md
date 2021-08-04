@@ -12,7 +12,7 @@
 - 📫 How to reach me email Id : bhargavishetty113@gamil.com
 - 👨‍💻 Portfolio - [https://bhargavishetty-portfolio.netlify.app/](https://bhargavishetty-portfolio.netlify.app/)
 
-- 📄 Resume -  [https://drive.google.com/drive/u/0/folders/1H9jJbvHNVYikbiVNzgrTDkPybZINH7Ua](https://drive.google.com/drive/u/0/folders/1H9jJbvHNVYikbiVNzgrTDkPybZINH7Ua)
+- 📄 Resume -  [https://drive.google.com/file/d/13eCf8ZZ0GjrLa1_0edpV-8fCxSIjFpbC/view?usp=sharing](https://drive.google.com/file/d/13eCf8ZZ0GjrLa1_0edpV-8fCxSIjFpbC/view?usp=sharing)
 
 
 
