@@ -7,12 +7,11 @@
  <br/>
 
 
-- 🌱 I’m currently learning MERN stack
-- 👀 I’m interested in web design
+- 🌱 Software Engineer @ UpGrad
 - 📫 How to reach me email Id : bhargavishetty113@gamil.com
 - 👨‍💻 Portfolio - [https://bhargavishetty-portfolio.netlify.app/](https://bhargavishetty-portfolio.netlify.app/)
 
-- 📄 Resume -  [https://drive.google.com/file/d/13eCf8ZZ0GjrLa1_0edpV-8fCxSIjFpbC/view?usp=sharing](https://drive.google.com/file/d/13eCf8ZZ0GjrLa1_0edpV-8fCxSIjFpbC/view?usp=sharing)
+- 📄 Resume -  [https://drive.google.com/file/d/1gInHVNevOU2B2VzWzN94hMpPLULWg0zN/view?usp=sharing](https://drive.google.com/file/d/1gInHVNevOU2B2VzWzN94hMpPLULWg0zN/view?usp=sharing)
 
 
 
@@ -31,11 +30,16 @@
   
   ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
   ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+   ![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+    ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
+     ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
+   	
 
 
   
